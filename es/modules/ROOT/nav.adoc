@@ -1,16 +1,31 @@
 // Add to the following lists cross references to all the pages you want to see
 // listed in the navigation menu for this document.
-.Información
-* xref:doc-info.adoc[Información del documento]
-* xref:contributing.adoc[Criterios de autoría y como participar en este documento]
-
-.Contenidos
-* xref:introduction.adoc[Introducción]
-* Segunda sección
-** Subsección A
-** Subsección B
-* Tercera sección
-
-.Otros formatos
-* xref:single-page.adoc[Página única (HTML)]
-* [.pdf-download-button]#PDF#
+* xref:get-decidim.adoc[Obtén el Decidim]
+* Personaliza una nueva instancia de Decidim
+** Procesos
+*** xref:es@config-tutorial:ROOT:processes-info.adoc[Nuevo proceso [↗\]]
+*** xref:es@config-tutorial:ROOT:processes-stages.adoc[Fases del proceso pass:[↗\]]
+*** xref:es@config-tutorial:ROOT:processes-meetings.adoc[Encuentro presencial [↗\]]
+*** xref:es@config-tutorial:ROOT:processes-categories.adoc[Categorías [↗\]]
+*** xref:es@config-tutorial:ROOT:processes-proposal.adoc[Propuestas [↗\]]
+*** xref:es@config-tutorial:ROOT:processes-proposal-assessment.adoc[Valoración de propuestas [↗\]]
+*** xref:es@config-tutorial:ROOT:processes-accountability.adoc[Seguimiento [↗\]]
+** xref:es@config-tutorial:ROOT:assemblies.adoc[Asambleas [↗\]]
+** xref:es@config-tutorial:ROOT:initiatives.adoc[Iniciativas [↗\]]
+* Administra Decidim via el panel de administración
+** xref:es@admin-manual:ROOT:administering-decidim.adoc[Administración de Decidim: resúmen [↗\]]
+*** xref:es@admin-manual:ROOT:how-to-access-administrator-menu.adoc[Cómo acceder al menú de administración [↗\]]
+*** xref:es@admin-manual:ROOT:configuring-local-authorities-decidim.adoc[Configuración de la plataforma Decidim del municipio [↗\]]
+** xref:es@admin-manual:ROOT:pages.adoc[Páginas [↗\]]
+** xref:es@admin-manual:ROOT:users.adoc[Usuarios [↗\]]
+** xref:es@admin-manual:ROOT:processess.adoc[Procesos [↗\]]
+** xref:es@admin-manual:ROOT:assemblies.adoc[Asambleas [↗\]]
+** xref:es@admin-manual:ROOT:initiatives.adoc[Iniciativas [↗\]]
+** xref:es@admin-manual:ROOT:newsletters.adoc[Boletines [↗\]]
+* Otras tareas de administración [_próximamente_]
+** Actualiza Decidim [_próximamente_]
+** Cópias de seguridad [_próximamente_]
+** Importa/exporta [_próximamente_]
+** Instalación _multi-tenant_ [_próximamente_]
+* xref:doc-info.adoc[_Información del documento_]
+* xref:contributing.adoc[_Criterios de autoría y como participar en este documento_]

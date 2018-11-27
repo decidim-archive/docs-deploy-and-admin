@@ -1,16 +1,31 @@
 // Add to the following lists cross references to all the pages you want to see
 // listed in the navigation menu for this document.
-.Informació
-* xref:doc-info.adoc[Informació del document]
-* xref:contributing.adoc[Criteris d'autoria i com participar en aquest document]
-
-.Continguts
-* xref:introduction.adoc[Introducció]
-* Segona secció
-** Subsecció A
-** Subsecció B
-* Tercera secció
-
-.Altres formats
-* xref:single-page.adoc[Pàgina única (HTML)]
-* [.pdf-download-button]#PDF#
+* xref:get-decidim.adoc[Obté el Decidim]
+* Personalitza una nova instància de Decidim [_en castellà_]
+** Processes
+*** xref:es@config-tutorial:ROOT:processes-info.adoc[Nuevo proceso [↗\]]
+*** xref:es@config-tutorial:ROOT:processes-stages.adoc[Fases del proceso [↗\]]
+*** xref:es@config-tutorial:ROOT:processes-meetings.adoc[Encuentro presencial [↗\]]
+*** xref:es@config-tutorial:ROOT:processes-categories.adoc[Categorías [↗\]]
+*** xref:es@config-tutorial:ROOT:processes-proposal.adoc[Propuestas [↗\]]
+*** xref:es@config-tutorial:ROOT:processes-proposal-assessment.adoc[Valoración de propuestas [↗\]]
+*** xref:es@config-tutorial:ROOT:processes-accountability.adoc[Seguimiento [↗\]]
+** xref:es@config-tutorial:ROOT:assemblies.adoc[Asambleas [↗\]]
+** xref:es@config-tutorial:ROOT:initiatives.adoc[Iniciativas [↗\]]
+* Administra el Decidim via el panell d'administració
+** xref:es@admin-manual:ROOT:administering-decidim.adoc[Administració del Decidim: resum [↗\]]
+*** xref:es@admin-manual:ROOT:how-to-access-administrator-menu.adoc[Com accedir al menú d'administració [↗\]]
+*** xref:es@admin-manual:ROOT:configuring-local-authorities-decidim.adoc[Configuració de la plataforma Decidim del municipi [↗\]]
+** xref:es@admin-manual:ROOT:pages.adoc[Pàgines [↗\]]
+** xref:es@admin-manual:ROOT:users.adoc[Usuaris [↗\]]
+** xref:es@admin-manual:ROOT:processess.adoc[Processos [↗\]]
+** xref:es@admin-manual:ROOT:assemblies.adoc[Assemblees [↗\]]
+** xref:es@admin-manual:ROOT:initiatives.adoc[Iniciatives [↗\]]
+** xref:es@admin-manual:ROOT:newsletters.adoc[Butlletins [↗\]]
+* Altres tasques d'administració [_properament_]
+** Actualitza el Decidim [_properament_]
+** Còpies de seguretat [_properament_]
+** Importa/exporta [_properament_]
+** Instal·lació _multi-tenant_ [_próximamente_]
+* xref:doc-info.adoc[_Informació del document_]
+* xref:contributing.adoc[_Criteris d'autoria i com participar en aquest document_]

@@ -1,0 +1,5 @@
+= Get Decidim
+
+At the moment our most complete installation guide is the one contributed by Ivan Vergés, from http://platoniq.net/[Platoniq]:
+
+* https://github.com/Platoniq/decidim-install[A detailed guide for installing a production Decidim instance].

@@ -8,7 +8,7 @@ include::attributes.adoc[]
 
 // MANDATORY. Title of the document. In web format, It appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:doctitle:
+:doctitle: Guia d'implantació i administració de Decidim
 
 // OPTIONAL. Subtitle of the document.
 :_subtitle:

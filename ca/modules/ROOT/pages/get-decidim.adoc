@@ -1,0 +1,5 @@
+= Obté el Decidim
+
+De moment la guia més completa d'instal·lació de què disposem és l'aportada per l'Ivan Vergés, de http://platoniq.net/[Platoniq]:
+
+* https://github.com/Platoniq/decidim-install[A detailed guide for installing a production Decidim instance].

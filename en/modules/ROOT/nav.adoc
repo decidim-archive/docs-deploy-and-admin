@@ -2,7 +2,7 @@
 // listed in the navigation menu for this document.
 * xref:get-decidim.adoc[Get Decidim]
 * Customize a new Decidim instance [_spanish only_]
-** Processes
+** Procesos
 *** xref:es@config-tutorial:ROOT:processes-info.adoc[Nuevo proceso [↗\]]
 *** xref:es@config-tutorial:ROOT:processes-stages.adoc[Fases del proceso [↗\]]
 *** xref:es@config-tutorial:ROOT:processes-meetings.adoc[Encuentro presencial [↗\]]
